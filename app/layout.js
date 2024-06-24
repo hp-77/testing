@@ -8,10 +8,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Metadata and other head elements */}
+    
       </head>
+
       <body>
         {children}
+        <script src="//code.tidio.co/wlvmvyfz4ndkaewbo61pme0lhhsfpin8.js" async></script>
       </body>
     </html>
   );
